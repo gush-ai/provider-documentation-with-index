@@ -1,0 +1,27 @@
+{
+  "name": "provider-documentation-with-index",
+  "display_name": "provider-documentation-with-index",
+  "type": "static-site",
+  "version": "1.0.0",
+  "description": "Imported Archive Project",
+  "author": "Developer",
+  "license": "MIT",
+  "generated_by": "Gush AI Codex V10.5",
+  "generated_at": "2026-09-05T08:37:38.724Z",
+  "files": [
+    "doc/provider-documentation/README-INDEX.md",
+    "doc/provider-documentation/external-bridge.md",
+    "doc/provider-documentation/payment.md",
+    "doc/provider-documentation/index.php",
+    "doc/provider-documentation/yarngpt.md",
+    "doc/provider-documentation/store.md",
+    "doc/provider-documentation/bet365.md",
+    "doc/provider-documentation/shop.md",
+    "doc/provider-documentation/bridge.md",
+    "doc/provider-documentation/HOW-TO-BUILD-A-PROVIDER.md",
+    "doc/provider-documentation/README.md",
+    "doc/provider-documentation/estore.md",
+    "gush-project.json",
+    ".gitignore"
+  ]
+}
