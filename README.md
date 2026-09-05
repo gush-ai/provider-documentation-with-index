@@ -8,11 +8,11 @@ you're adding a new one.
 
 | Provider | Command | Type | Enabled |
 |---|---|---|---|
-| [Bet365 Live Scores](/bet365.md) | `@bet365` | sports | yes |
+| [Bet365 Live Scores](doc/provider-documentation/bet365.md) | `@bet365` | sports | yes |
 | [Bridge Hub](I’m/bridge.md) | `@bridge` | bridge | no |
-| [Ecommerce Bridge](/store.md) | `@store` | ecommerce | yes |
-| [External API Bridge](/external-bridge.md) | `@api` | bridge | yes |
-| [SStore Shopping](/estore.md) | `@shop` | ecommerce | yes |
-| [Shopping](/shop.md) | `@shop` | ecommerce | yes |
-| [Wallet Top-Up (Paystack)](/payment.md) | `@topup` | payment | yes |
-| [YarnGPT Voice](/yarngpt.md) | `@voice` | voice | yes |
+| [Ecommerce Bridge](doc/provider-documentation/store.md) | `@store` | ecommerce | yes |
+| [External API Bridge](doc/provider-documentation/external-bridge.md) | `@api` | bridge | yes |
+| [SStore Shopping](doc/provider-documentation/estate.md) | `@shop` | ecommerce | yes |
+| [Shopping](doc/provider-documentation/shop.md) | `@shop` | ecommerce | yes |
+| [Wallet Top-Up (Paystack)](doc/provider-documentation/payment.md) | `@topup` | payment | yes |
+| [YarnGPT Voice](doc/provider-documentation/yarngpt.md) | `@voice` | voice | yes |
